@@ -1,0 +1,9 @@
+paulmelnikow/zsh-startup-timer
+
+ael-code/zsh-colored-man-pages
+
+zsh-users/zsh-completions
+zsh-users/zsh-autosuggestions
+
+zdharma/fast-syntax-highlighting
+zsh-users/zsh-history-substring-search
